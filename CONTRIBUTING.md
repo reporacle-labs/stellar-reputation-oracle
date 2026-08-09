@@ -1,3 +1,5 @@
+
+<!-- fix(#2): support weighted decay for older interactions -->
 # Contributing to Stellar Reputation Oracle
 
 Thank you for your interest in contributing!
