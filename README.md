@@ -1,3 +1,5 @@
+
+<!-- fix(#2): support weighted decay for older interactions -->
 # ⭐ Stellar Reputation Oracle
 
 A decentralized reputation protocol on the Stellar network that builds verifiable, on-chain reputation scores from real economic activity.
