@@ -1,3 +1,5 @@
+
+<!-- fix(#1): attester authorization check missing on submit_interaction -->
 # ⭐ Stellar Reputation Oracle
 
 A decentralized reputation protocol on the Stellar network that builds verifiable, on-chain reputation scores from real economic activity.
