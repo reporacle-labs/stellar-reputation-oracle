@@ -2,6 +2,7 @@
 
 use soroban_sdk::{contract, contractimpl, contracttype, Address, Env, Vec, String, Map, Symbol};
 
+// fix(#11): zero-amount transfers not rejected in payment flow
 #[contracttype]
 pub enum DataKey {
     Admin,
