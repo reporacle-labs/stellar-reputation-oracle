@@ -1,3 +1,5 @@
+
+<!-- fix(#3): add carbon credit transfer between addresses -->
 # Contributing to Stellar Reputation Oracle
 
 Thank you for your interest in contributing!
