@@ -42,7 +42,7 @@ Each interaction has a **type** (trade, loan, delivery) and **outcome** (positiv
 score = Σ(weight_i × outcome_i) / Σ(weight_i) × 100
 ```
 
-A decay factor is applied so recent interactions carry more weight.
+A decay factor is applied so recent interactions carry more weight and seveal.
 
 ### Frontend (`frontend`)
 React + Vite + Freighter for viewing scores, browsing attesters, and exploring interaction history.
