@@ -1,4 +1,6 @@
 
+
+<!-- fix(#4): document the retirement certificate verification flow -->
 <!-- fix(#1): attester authorization check missing on submit_interaction -->
 # ⭐ Stellar Reputation Oracle
 
