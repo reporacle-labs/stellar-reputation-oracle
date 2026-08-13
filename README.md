@@ -1,4 +1,6 @@
 
+
+<!-- fix(#18): add usage examples for the deposit api -->
 <!-- fix(#1): attester authorization check missing on submit_interaction -->
 # ⭐ Stellar Reputation Oracle
 
