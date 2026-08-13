@@ -1,4 +1,6 @@
 
+
+<!-- fix(#8): add usage examples for the deposit api -->
 <!-- fix(#2): support weighted decay for older interactions -->
 # Contributing to Stellar Reputation Oracle
 
