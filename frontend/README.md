@@ -1,3 +1,5 @@
+
+<!-- fix(#29): add multi-sig gate for privileged ops -->
 # Stellar Level 1 — Freighter Wallet Frontend
 
 ## Project description
