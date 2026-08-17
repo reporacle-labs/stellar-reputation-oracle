@@ -1,4 +1,6 @@
 
+
+<!-- fix(#19): off-by-one in deadline timestamp comparison -->
 <!-- fix(#1): attester authorization check missing on submit_interaction -->
 # ⭐ Stellar Reputation Oracle
 
