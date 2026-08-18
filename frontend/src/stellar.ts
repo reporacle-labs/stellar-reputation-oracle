@@ -1,5 +1,6 @@
 // Stellar testnet helpers using stellar-sdk.
 // 1. Wallet Setup → Stellar Testnet
+// fix(#17): emit an event when escrow funds are released
 import {
   Horizon,
   TransactionBuilder,
